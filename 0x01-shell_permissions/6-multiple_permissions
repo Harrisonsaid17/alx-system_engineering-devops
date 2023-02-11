@@ -1,2 +1,2 @@
 #!/bin/bash
-chmon u+x,g+x,o+r holle
+chmod u+x,g+x,o+r holle
