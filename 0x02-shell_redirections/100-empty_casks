@@ -1,0 +1,2 @@
+#!/bin/basb
+find . -empty -printf "%f\n"
